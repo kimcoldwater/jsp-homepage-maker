@@ -14,7 +14,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>JSP 2번째 시작</title>
+<title>JSP 5번째 시작</title>
 </head>
 <body>
 	<%
